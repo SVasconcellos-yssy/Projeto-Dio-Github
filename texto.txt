@@ -1,0 +1,6 @@
+Aqui irei escrever as linguagens que irei aprender no bootcamp da Dio:
+
+JavaScript
+React
+HTML
+CSS
